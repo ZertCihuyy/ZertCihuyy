@@ -23,18 +23,11 @@ tempat di mana error adalah *villain*, dan aku adalah *MC yang gak mau kalah.*
 ## 🧩 Tech Stack
 | Bidang | Skill |
 |--------|--------|
-| Backend | Node.js • Express • PHP |
-| Database | MySQL • JSON Storage |
+| Backend | Node.js • Express • Python |
+| Database | MongoDb • JSON Storage |
 | Frontend | Next.js • HTML • CSS • JavaScript |
 | Tools | Git • Termux • Android Workflow |
 | Others | File-based API • REST • Automation System |
-
----
-
-## 💻 Proyek Pilihan
-- ⚡ **SugoiTech v2** — AI News Generator dengan dark theme & sistem histori  
-- 🎬 **NEV JAV** — Platform streaming berbasis file (UI bergaya Nekopoi, aman & cepat)  
-- 🖼️ **Zerostore.me** — Image & video renderer dengan galeri otomatis  
 
 ---
 
@@ -49,7 +42,7 @@ dan setiap `console.log("success")` adalah **kemenangan besar**.
 
 ---
 
-## ☕ Motivasi Hidup
+## ☕ Moto
 > 💬 “Kalau error, aku gak tidur. Apapun caranya, harus kelar malam ini.”  
 > Tapi aku tahu, tubuh juga punya limit.  
 > Maka aku rawat diriku seperti merawat server — **reboot secukupnya, tapi jangan sampai crash.**
