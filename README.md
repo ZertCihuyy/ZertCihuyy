@@ -1,6 +1,6 @@
 <!-- Banner Anime Style -->
 <p align="center">
-  <img src="[[https://i.ibb.co/2qYb5wL/anime-coder-banner.jpg](https://static-wikia-nocookie-net.translate.goog/roshidere/images/4/44/Episode_1_Preview_3.png/revision/latest?cb=20240628093048&_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs)](https://static-wikia-nocookie-net.translate.goog/roshidere/images/4/44/Episode_1_Preview_3.png/revision/latest?cb=20240628093048&_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs)" alt="OtakuDeveloper Banner" width="100%" />
+  <img src="https://i.ibb.co/2qYb5wL/anime-coder-banner.jpg" alt="OtakuDeveloper Banner" width="100%" />
 </p>
 
 <h1 align="center">🌸 OtakuDeveloper — The Anime Coder</h1>
