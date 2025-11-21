@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVI2uP8GKq0Z7S/giphy.gif" width="100%" style="border-radius: 12px; object-fit: cover;" alt="Anime Coding Gif">
+  <img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif" width="100%" style="border-radius: 12px; object-fit: cover;" alt="Anime Coding Gif">
 </div>
 
 <h1 align="center">🌸 Konnichiwa, I'm ZertCihuyy! 🌸</h1>
