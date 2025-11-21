@@ -27,7 +27,7 @@ Halo dunia! Aku **ZertCihuyy**. Seorang **Backend Developer** yang menjadikan te
 * 🔭 **Project Aktif:** API Anime & Automation Tools.
 * 🌱 **Sedang Belajar:** Microservices & Machine Learning.
 * 💬 **Bisa tanya:** Node.js, Express, API, Anime rekomendasi, & DevOps ringan.
-* ⚡ **Fun fact:** Aku lebih suka *debugging* server daripada nonton *filler* Naruto.
+* ⚡ **Fun fact:** Aku lebih suka *debugging* server daripada nonton boruto.
 
 ---
 
