@@ -1,6 +1,6 @@
 <!-- Banner Anime Style -->
 <p align="center">
-  <img src="https://images7.alphacoders.com/136/thumb-1920-1369318.png" alt="OtakuDeveloper Banner" width="100%" />
+  <img src="[[https://images7.alphacoders.com/136/thumb-1920-1369318.png](https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif)](https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif)" alt="OtakuDeveloper Banner" width="100%" />
 </p>
 
 <h1 align="center">🌸 OtakuDeveloper — The Anime Coder</h1>
