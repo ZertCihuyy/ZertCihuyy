@@ -1,94 +1,57 @@
 <div align="center">
-  <img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif" width="100%" style="border-radius: 12px; object-fit: cover;" alt="Anime Coding Gif">
+
+  <img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif" width="100%" style="border-radius:15px; object-fit: cover;" alt="Anime Banner" />
+
+  <h1 align="center">🌸 Konnichiwa, I'm ZertCihuyy! 🌸</h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Anime+Enthusiast;System+Automator;The+Otaku+Coder" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=zertcihuyy&label=Profile%20Views&color=ff69b4&style=flat" alt="zertcihuyy" />
+  </p>
+
+  <blockquote>
+    <em>"Ngoding itu seperti nonton Anime Shonen: Penuh struggle di awal, tapi OP (Overpowered) di akhir."</em> 🥷💻
+  </blockquote>
+
 </div>
 
-<h1 align="center">🌸 Konnichiwa, I'm ZertCihuyy! 🌸</h1>
+---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A91B60&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer;Anime+Enthusiast;System+Automator;The+Otaku+Coder" alt="Typing SVG" />
-  </a>
-</p>
+## 👺 **Character Profile: OtakuDeveloper**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zertcihuyy&label=Profile%20Views&color=ff69b4&style=flat" alt="zertcihuyy" />
-</p>
+Halo dunia! Aku **ZertCihuyy**. Seorang **Backend Developer** yang menjadikan terminal sebagai *dungeon* dan error sebagai *boss fight*. Aku membangun sistem di balik layar agar "dunia" berjalan lancar.
 
-<p align="center">
-   <em>"Ngoding itu seperti nonton Anime Shonen: Penuh struggle di awal, tapi OP (Overpowered) di akhir."</em> 🥷💻
-</p>
+* 🔭 **Project Aktif:** API Anime & Automation Tools.
+* 🌱 **Sedang Belajar:** Microservices & Machine Learning.
+* 💬 **Bisa tanya:** Node.js, Express, API, Anime rekomendasi, & DevOps ringan.
+* ⚡ **Fun fact:** Aku lebih suka *debugging* server daripada nonton *filler* Naruto.
 
 ---
 
-## 👺 Character Profile: OtakuDeveloper
-
-Halo! Aku **ZertCihuyy**. Seorang **Backend Developer** yang menjadikan terminal sebagai *dungeon* dan error sebagai *boss fight*. Aku membangun sistem API dan otomatisasi (kadang lewat HP/Termux!) sambil maraton anime musiman.
-
-* 🔭 **Saat ini sedang mengerjakan:** Proyek API Anime & Scraping Tools.
-* 🌱 **Sedang belajar:** Mengoptimalkan *Microservices* dan *Machine Learning*.
-* 💬 **Tanya aku tentang:** Node.js, Express, Python, atau Anime rekomendasi musim ini.
-* ⚡ **Fun fact:** Aku bisa memperbaiki bug server lebih cepat daripada loading filler episode Naruto.
-
----
-
-## ⚔️ Skill Tree & Arsenal
-
-| **Backend Sorcery** | **Database & Cloud** | **Tools & OS** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <br> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Termux-Ops-green?style=for-the-badge&logo=android" /> <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
-
-**Frontend Side-Quest:**
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
----
-
-## 📊 Power Level (Stats)
+## ⚔️ **Skill Tree & Arsenal**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zertcihuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertcihuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zertcihuyy&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+
+| **Backend Sorcery** | **Database & Cloud** | **Tools & OS** | **Frontend Side-Quest** |
+|:---:|:---:|:---:|:---:|
+| ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <br> ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=green) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+
 </div>
 
 ---
 
-## 🧬 The Code of Zert
+## 📊 **Power Level (Stats)**
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "ZertCihuyy";
-    this.role = "Backend Specialist";
-    this.fuel = ["Kopi Kapal Api", "Anime OST"];
-  }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zertcihuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ZertCihuyy Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertcihuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zertcihuyy&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+</div>
 
-  async dailyGrind() {
-    while (this.isAlive) {
-      try {
-        await this.writeCode();
-        await this.deploy();
-        console.log("Mission Success! 🚀");
-      } catch (bug) {
-        console.error("Enemy Encountered: " + bug);
-        await this.googleStackOverflow();
-        await this.drinkCoffee(); // Buff Stats
-      }
-    }
-  }
-}
 ---
 
-## ☕ Moto
-> 💬 “Kalau error, aku gak tidur. Apapun caranya, harus kelar malam ini.”  
-> Tapi aku tahu, tubuh juga punya limit.  
-> Maka aku rawat diriku seperti merawat server — **reboot secukupnya, tapi jangan sampai crash.**
-
-Aku hidup dengan prinsip sederhana namun keras:
-```js
-while(!success) {
-  debug();
-  coffee++;
-  health = Math.max(health, 1); // jangan sampe 0, bro
-}
