@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://c.tenor.com/783te4IEHooAAAAd/tenor.gif"
+<img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif"
      width="100%"
      style="border-radius:18px; box-shadow:0 0 40px rgba(255,105,180,.25)"
-     alt="Inikah my "/>
+     alt="Ini kah My"/>
 
 <br><br>
 
