@@ -1,58 +1,91 @@
 <div align="center">
 
-<img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif" width="100%" style="border-radius:15px" alt="Anime Banner" />
+<img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif"
+     width="100%"
+     style="border-radius:18px; box-shadow:0 0 40px rgba(255,105,180,.25)"
+     alt="Anime Banner"/>
 
-<h1>🌸 Konnichiwa, I'm ZertCihuyy! 🌸</h1>
+<br><br>
+
+<h1>
+  🌸 Konnichiwa, I'm <span style="color:#ff69b4">ZertCihuyy</span> 🌸
+</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Backend+Developer;Anime+Enthusiast;System+Automator;Otaku+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com
+    ?font=Fira+Code
+    &pause=1000
+    &color=FF69B4
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=Backend+Developer;Otaku+Developer;Anime+Enthusiast;System+Automator;API+Builder"
+  />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=zertcihuyy&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=zertcihuyy&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
+
+<br><br>
 
 <blockquote>
-  <em>"Ngoding itu seperti nonton Anime Shonen: penuh struggle di awal, OP di akhir."</em> 🥷💻
+  <b>“Ngoding itu seperti nonton anime shounen —</b><br>
+  <i>berdarah di awal, OP di akhir.”</i> 🥷💻
 </blockquote>
 
 </div>
 
 ---
 
-## 👺 Character Profile: **OtakuDeveloper**
+## 👺 **Character Profile — OtakuDeveloper**
 
-Halo dunia! Aku **ZertCihuyy** — seorang **Backend Developer** yang hidup di balik terminal.  
-Server adalah dungeon, error adalah boss fight, dan log adalah clue.
+Halo dunia! Aku **ZertCihuyy**,  
+seorang backend dev yang hidup di balik terminal gelap 🖥️  
 
-- 🔭 **Project Aktif:** Anime API, Automation Tools, Proxy System  
-- 🌱 **Sedang Belajar:** Microservices & scaling backend  
-- 💬 **Bisa tanya:** Node.js, Express, API, Anime, GitHub Pages  
-- ⚡ **Fun fact:** Lebih kuat debug server daripada nonton Boruto  
+🗡️ Server = dungeon  
+🐞 Error = boss  
+📜 Log = petunjuk rahasia  
+
+**Role:** Backend Developer / API Crafter  
+
+- 🔭 **Active Project:** Anime API, Proxy System, Automation Tool  
+- 🌱 **Currently Learning:** Microservices, Scaling, Clean Architecture  
+- 💬 **Ask me about:** Node.js, Express, API, GitHub Pages, Anime  
+- ⚡ **Fun fact:** Lebih tahan debug production daripada nonton Boruto  
 
 ---
 
-## ⚔️ Skill Tree & Arsenal
+## ⚔️ **Skill Tree & Arsenal**
 
 <div align="center">
 
-| Backend Sorcery | Database & Data | Tools & OS | Frontend Side-Quest |
-|---|---|---|---|
-| Node.js<br>Express<br>Python | MongoDB<br>JSON | Git<br>Termux<br>Linux | Next.js<br>JavaScript |
+| Backend | Database | Tools | Frontend |
+|------|------|------|------|
+| ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) <br> ![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge) <br> ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) | ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) <br> ![JSON](https://img.shields.io/badge/JSON-000?style=for-the-badge) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) <br> ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux) <br> ![Termux](https://img.shields.io/badge/Termux-000?style=for-the-badge&logo=android) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) |
 
 </div>
 
 ---
 
-## 🎧 Now Playing – My Music
+## 🎧 **Now Playing — My Music**
 
 <div align="center">
 
 <a href="https://zertcihuyy.github.io/now-playing/" target="_blank">
-  <img src="https://img.shields.io/badge/YOASOBI-Now%20Playing-ff69b4?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/MY%20MUSIC-NOW%20PLAYING-ff69b4?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<br/>
-<sub>🎶 Click to play — hosted on GitHub Pages</sub>
+<br><br>
+
+<sub>🎶 Click & enjoy • Powered by GitHub Pages</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ <b>OtakuDev • Backend • Anime • Music</b> ✨  
 
 </div>
