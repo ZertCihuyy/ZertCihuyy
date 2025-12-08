@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://c.tenor.com/X_LnwjUutpEAAAAC/tenor.gif"
+<mp3 src="https://k.top4top.io/m_3629e1fmz0.mp3"
      width="100%"
      style="border-radius:18px; box-shadow:0 0 40px rgba(255,105,180,.25)"
      alt="Anime Banner"/>
