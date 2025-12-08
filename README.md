@@ -44,7 +44,7 @@ Server adalah dungeon, error adalah boss fight, dan log adalah clue.
 
 ---
 
-## 🎧 Now Playing – Coding Mode ON
+## 🎧 Now Playing – My Music
 
 <div align="center">
 
