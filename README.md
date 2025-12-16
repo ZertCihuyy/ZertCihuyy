@@ -15,7 +15,6 @@
 </a>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=zertcihuyy&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge"/>
 
 <br><br>
@@ -63,13 +62,19 @@ seorang backend dev yang hidup di balik terminal gelap 🖥️
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zertcihuyy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4" height="180"/>
+<!-- Main Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertcihuyy&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zertcihuyy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4&icon_color=ff69b4" height="170" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zertcihuyy&theme=radical&hide_border=true&background=00000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+
+
+<br>
+
+<!-- Top Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertcihuyy&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=ff69b4" height="150" />
 
 </div>
 
