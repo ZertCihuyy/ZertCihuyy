@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://c.tenor.com/RayxkcrqlHgAAAAC/tenor.gif"
-  width="100%"
-  style="border-radius:18px; box-shadow:0 0 40px rgba(255,105,180,.25)"
-  alt="Banner"/>
+<!-- Hero Banner (Animated SVG) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=ZertCihuyy&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
 <br><br>
 
@@ -76,24 +75,16 @@ seorang backend dev yang hidup di balik terminal gelap 🖥️
 
 ---
 
-## 🎧 Now Playing — **My Music**
-
-<div align="center">
-
-<a href="https://zertcihuyy.github.io/now-playing/" target="_blank">
-  <img src="https://img.shields.io/badge/MY%20MUSIC-NOW%20PLAYING-ff69b4?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<br><br>
-
-<sub>🎶 Click & enjoy • Powered by GitHub Pages</sub>
-
-</div>
-
 ---
 
 <div align="center">
 
-✨ <b>OtakuDev • Backend • Anime • Music</b> ✨ <i>"Code. Deploy. Chill. Repeat."</i>
+✨ <b>OtakuDev • Backend • Anime • API</b> ✨ <i>"Code. Deploy. Chill. Repeat."</i>
 
+</div>
+
+<!-- Bottom GIF (Fixed) -->
+
+<div align="center">
+  <img src="https://c.tenor.com/RayxkcrqlHgAAAAC/tenor.gif" width="70%" style="border-radius:18px; box-shadow:0 0 30px rgba(255,105,180,.35)" />
 </div>
